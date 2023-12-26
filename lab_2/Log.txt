@@ -1,0 +1,9 @@
+The gas stove is on
+The stove setting is displayed
+The oven is included in the complete set with a stove
+The gas bag is included in the complete set with a stove
+The burner changed from 1 to 3
+The fire is increased on 30% 
+The fire is reduced on 5% 
+The stove is in good condition
+Turn on the hood while cooking
