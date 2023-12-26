@@ -1,0 +1,12 @@
+The gas stove is on
+The stove setting is displayed
+The oven is included in the complete set with a stove
+The gas bag is included in the complete set with a stove
+The burner changed from 1 to 3
+The fire is increased on 30% 
+The fire is reduced on 5% 
+The stove is in good condition
+The gas stove is on
+The gas capacity in the gas cylinder is reduced by 0.3333333333333333 liters during 20 minutes
+Gas stove was cleaned
+Turn on the hood while cooking
